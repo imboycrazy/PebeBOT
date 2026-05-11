@@ -61,6 +61,7 @@ const PEBE_RESPONSES = [
   "You're a beautiful shit head, you deserve to be hired instead of Chelsea",
   "Why 7/11 is still open? Oh wait you want an advice? My bad.",
   "Sex Toys are important to have in the bedroom.",
+  "in the 70s I used to live in the middle of nowhere",
 ];
 
 // ---------------------------------------------------------------------------
