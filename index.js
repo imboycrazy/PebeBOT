@@ -123,6 +123,17 @@ client.on(Events.InteractionCreate, async interaction => {
       await interaction.reply({ content: `Could not send a message to ${targetUser.username}. They may have DMs disabled.`, ephemeral: true });
     }
   }
+
+  if (interaction.commandName === 'send') {
+    if (interaction.user.id !== ALLOWED_SENDMSG_ID) {
+      await interaction.reply({ content: 'Access denied: Only people from Tel Aviv are able to use it.', ephemeral: true });
+      return;
+    }
+
+    const msgText = interaction.options.getString('message');
+    await interaction.channel.send(msgText);
+    await interaction.reply({ content: 'Message sent!', ephemeral: true });
+  }
 });
 
 // ---------------------------------------------------------------------------
