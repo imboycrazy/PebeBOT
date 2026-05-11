@@ -31,6 +31,16 @@ const commands = [
         .setDescription('The message to send')
         .setRequired(true)
     ),
+
+  new SlashCommandBuilder()
+    .setName('send')
+    .setDescription('Send a message to this channel')
+    .addStringOption(option =>
+      option
+        .setName('message')
+        .setDescription('What do you want to send?')
+        .setRequired(true)
+    ),
 ].map(cmd => cmd.toJSON());
 
 const rest = new REST({ version: '10' }).setToken(process.env.DISCORD_TOKEN);
