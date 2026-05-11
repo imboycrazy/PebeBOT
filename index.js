@@ -48,6 +48,9 @@ const ASK_PEBE_RESPONSES = [
   { text: "Dan I have a glitter covered vape for you!", weight: 2 },
   { text: "I wrote a song about who shot Trump", weight: 2 },
   { text: "Crazy in me sees the crazy in you is my favourite lyric I've ever written.", weight: 2 },
+  { text: "I’d give you a clever answer, but my brain is buffering like a 2010 YouTube video", weight: 3 },
+  { text: "My naked butt says yes to this filth", weight: 3 },
+  { text: "My naked butt farts a big smelly no to this one", weight: 3 },
 ];
 
 const PEBE_RESPONSES = [
@@ -62,6 +65,8 @@ const PEBE_RESPONSES = [
   "Why 7/11 is still open? Oh wait you want an advice? My bad.",
   "Sex Toys are important to have in the bedroom.",
   "in the 70s I used to live in the middle of nowhere",
+  "'Kinky Spice' is the name of Kesha's secret Google Drive",
+  "slaying the boots down, serving cunt 💋",
 ];
 
 // ---------------------------------------------------------------------------
