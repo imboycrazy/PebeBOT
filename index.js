@@ -184,7 +184,7 @@ client.once(Events.ClientReady, () => {
   console.log(`PebeBot is online as ${client.user.tag}`);
   client.user.setPresence({
     activities: [{
-      name: 'Pebe Sebert - 1945kg (dedication to Lizzo)',
+      name: 'Queef Times Ahead',
       type: 2,
     }],
     status: 'online',
