@@ -67,6 +67,7 @@ const PEBE_RESPONSES = [
   "in the 70s I used to live in the middle of nowhere",
   "'Kinky Spice' is the name of Kesha's secret Google Drive",
   "slaying the boots down, serving cunt 💋",
+  "I put placenta inside my coochie...",
 ];
 
 // ---------------------------------------------------------------------------
