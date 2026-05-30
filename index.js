@@ -67,7 +67,11 @@ const PEBE_RESPONSES = [
   "in the 70s I used to live in the middle of nowhere",
   "'Kinky Spice' is the name of Kesha's secret Google Drive",
   "slaying the boots down, serving cunt 💋",
-  "I put placenta necklace inside my coochie... Feels so good",
+  "I put the placenta necklace inside my coochie... Feels so good",
+  "One of the dogs just pooped on my new carpet. I’m so sad.",
+  "Where is my penis costume",
+  "My name isn't Phoebe! It's Pebe. Pee-Bee. ♥️",
+  "Album or single? I’m single. ♥️",
 ];
 
 // ---------------------------------------------------------------------------
