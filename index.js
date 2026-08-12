@@ -188,7 +188,7 @@ client.once(Events.ClientReady, () => {
   console.log(`PebeBot is online as ${client.user.tag}`);
   client.user.setPresence({
     activities: [{
-      name: 'SS69',
+      name: 'Precum(ition)',
       type: 2,
     }],
     status: 'online',
