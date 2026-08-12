@@ -41,7 +41,6 @@ const PEBE_RESPONSES = [
   "Don't blame yourself for your mistakes, blame Kesha instead.",
   "Should I wear my penis costume again?",
   "Writing songs is for the delusional people like Kesha. Oh, wait...",
-  "You're a beautiful shit head, you deserve to be hired instead of Chelsea",
   "My cooch smells terrible... Oh wait you want an advice? My bad",
   "in the 70s I used to live in the middle of nowhere. I still live in the middle of nowhere",
   "'Kinky Spice' is the name of Kesha's secret Google Drive btw",
