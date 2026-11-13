@@ -57,6 +57,11 @@ const PEBE_RESPONSES = [
   "Christine Lepera is actually hot 🥵",
   "I drink my pee once a week. I heard it's good for hags like me.",
   "I'm a lyricist for Sizzy Rocket's next album. I think she's very talented, like my daughter. I also listened to some random artist's discography - her name's Kesha. She was so untalented and her music was so bad.",
+  "When I went to vote last week at the Brentwood, TN library, I chose the Republican candidate, Donald Trump, three different times, and it highlighted a Democratic candidate. It happened again when I tried to vote for another Republican, and I had to press twice before it would highlight the Republican candidate. I didn’t say anything because I thought maybe I just hadn’t been careful enough, but I’ve since heard widespread reports of the same thing happening to lots of other people here in Tennessee with the same candidates. I’m just here to say this happened to me. Ridiculous.",
+  "Look, it's me with my sugar daddy in 1921. I was much younger, but still ugly as fuck 😂 https://cdn.discordapp.com/attachments/1350086261112700988/1570903183461449839/p.png?ex=6af8c918&is=6af77798&hm=c1f5f692c4e29e8a63f00906bf6df272c559b82ac134c4f18a97cdfe663ea10b&",
+  "I guess OKAN being more active than for 5 minutes is rarer than Kesha getting a hit. Both situations are the rarest things in the world tho...",
+  "Photoshoot with Katy Perry! https://cdn.discordapp.com/attachments/1350086261112700988/1570904121794371674/kp.png?ex=6af8c9f8&is=6af77878&hm=994b2023108445493b4febdd254e1c30876c071ca3e1d6f88528c2dd16d98b29&",
+  "My new videoshoot avaiable on onlyscams.com 🤍 https://cdn.discordapp.com/attachments/1350086261112700988/1570904385326809118/of.png?ex=6af8ca37&is=6af778b7&hm=d5af20fd782db07ab1e5a6d9ca6ec369e234282a27207fb5101f640d1c6b8024&",
 ];
 
 // ---------------------------------------------------------------------------
